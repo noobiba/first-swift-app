@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.label.text = "Bitte Button drücken!"
         // Do any additional setup after loading the view, typically from a nib.
     }
 
